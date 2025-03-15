@@ -17,7 +17,6 @@
   - NumPy – Numerical computations.
   - Scikit-learn – Machine learning algorithms.
   - Matplotlib & Seaborn – Data visualization.
-  - 
 
 ## Results
 Polynomial Regression captures non-linear patterns effectively.
